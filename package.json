@@ -2,9 +2,11 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://piyushchauhan.github.io/",
   "scripts": {
     "dev": "next dev",
-    "deploy": "npm run build && gh-pages -d build",
+"predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
