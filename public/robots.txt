@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://piyush-chauhan.netlify.app/sitemap.xml
+Disallow: /api/
