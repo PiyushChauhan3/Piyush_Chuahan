@@ -11,6 +11,7 @@ export default function Home() {
         <meta name="description" content="Piyush Chauhan - Passionate Web Developer specializing in ReactJS & MERN Stack. Explore my portfolio, projects, and blogs." />
         <link rel="canonical" href="https://piyush-chauhan.netlify.app/" />
         <meta name="msvalidate.01" content="062BFBCCA7BFC2159D9E7CABCB3C95F9" />
+        <meta name="google-site-verification" content="MRqwMDexOomRwSOKXGxkbUSZSDw-C-tYvx6Ohef9avA" />
         <script type="application/ld+json">
           {`
             "@context": "https://schema.org",
