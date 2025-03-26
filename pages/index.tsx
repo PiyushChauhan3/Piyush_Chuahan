@@ -20,7 +20,7 @@ export default function Home() {
           "url": "https://piyush-chauhan.netlify.app/",
           "sameAs": [
           "https://github.com/PiyushChauhan3",
-          "https://linkedin.com/in/your-profile"
+          "https://www.linkedin.com/in/piyushchauhan30/"
           ],
           "jobTitle": "Web Developer",
           "worksFor": {
