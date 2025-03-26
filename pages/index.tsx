@@ -6,8 +6,28 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Piyush Chauhan | Portfolio</title>
+        <title>Piyush Chauhan | Web Developer | MERN Stack & ReactJS</title> 
         <meta name="description" content="ReactJS Developer Portfolio for Piyush Chauhan" />
+        <meta name="description" content="Piyush Chauhan - Passionate Web Developer specializing in ReactJS & MERN Stack. Explore my portfolio, projects, and blogs." />
+        <link rel="canonical" href="https://piyush-chauhan.netlify.app/" />
+        <script type="application/ld+json">
+          {`
+            "@context": "https://schema.org",
+          "@type": "Person",
+          "name": "Piyush Chauhan",
+          "url": "https://piyush-chauhan.netlify.app/",
+          "sameAs": [
+          "https://github.com/PiyushChauhan3",
+          "https://linkedin.com/in/your-profile"
+          ],
+          "jobTitle": "Web Developer",
+          "worksFor": {
+            "@type": "Organization",
+          "name": "Freelance"
+            }
+        `}
+        </script>
+        
       </Head>
       <main className="flex flex-col min-h-screen pt-20">
         {/* Hero Section */}
@@ -42,11 +62,12 @@ export default function Home() {
                 <div className="w-64 h-64 mx-auto rounded-full border-4 border-white shadow-xl overflow-hidden">
                   <Image
                     src="/images/profile.jpg"
-                    alt="Piyush Chauhan"
+                    alt="Piyush Chauhan "
                     width={256}
                     height={256}
                     className="object-cover w-full h-full"
                     unoptimized
+                    loading='lazy'
                   />
                 </div>
               </div>

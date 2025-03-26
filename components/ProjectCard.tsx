@@ -26,6 +26,7 @@ const ProjectCard = ({ project }: ProjectProps) => {
           fill
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           unoptimized
+          loading="lazy"
         />
       </div>
       <div className="p-6">
@@ -73,4 +74,4 @@ const ProjectCard = ({ project }: ProjectProps) => {
   );
 };
 
-export default ProjectCard; 
+export default ProjectCard;
