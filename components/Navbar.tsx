@@ -94,6 +94,23 @@ const Navbar = () => {
                   </Link>
                 </li>
               ))}
+              <li>
+                <Link
+                href="Piyush_Chauhan_Resume__ - Copy.pdf"
+                download={"Piyush_Chauhan_Resume__-copy.pdf"}
+                className={`relative px-4 py-2 rounded-md font-medium transition duration-300 ${
+                  isActive("/Piyush_Chauhan_Resume__-copy.pdf")
+                  ? isScrolled
+                  ? 'text-indigo-600 bg-indigo-50' 
+                  : 'text-yellow-300 bg-white/10'
+                : isScrolled 
+                  ? 'text-gray-800 hover:text-indigo-600 hover:bg-indigo-50' 
+                  : 'text-white hover:text-yellow-300 hover:bg-white/10'
+                  }`}
+                  >
+                    Resume
+                    </Link>                
+              </li>
             </ul>
           </nav>
 
