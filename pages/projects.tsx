@@ -10,7 +10,7 @@ export default function Projects() {
       description: 'A real-time expense tracking application using Firebase and ReactJS.',
       image: '/images/projects/expense-tracker.jpg',
       tags: ['ReactJS', 'Firebase', 'TailwindCSS'],
-      link: '/projects/expense-tracker',
+      link: 'https://github.com/PiyushChauhan3/Expense-tracker-using-reactjs',
       category: 'Web App',
     },
     {
