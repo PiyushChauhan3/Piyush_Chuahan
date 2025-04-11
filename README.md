@@ -1,5 +1,7 @@
 # Personal Portfolio
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A modern portfolio website built with Next.js and TailwindCSS.
 
 ## Features
