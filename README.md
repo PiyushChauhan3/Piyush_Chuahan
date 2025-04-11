@@ -123,7 +123,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## DMCA Notice
 
 Unauthorized copying, reproduction, or redistribution of any part of this website design or code is strictly prohibited without express written permission.  
-If you find someone infringing on this work, or need permissions, please contact: **contact@youremail.com**
+If you find someone infringing on this work, or need permissions, please contact: **piyushchauhan936001@gmail.com**
 
 ---
 
@@ -140,6 +140,6 @@ If you find someone infringing on this work, or need permissions, please contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-- 📧 Email: [contact@youremail.com](mailto:contact@youremail.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- 📧 Email: [piyushchauhan936001@gmail.com](mailto:piyushchauhan936001@gmail.com)
+- 🐦 Instagram: [@piyush___chauhan_](https://instagram.com/piyush___chauhan_)
+- 💼 LinkedIn: [Piyush Chauhan](https://linkedin.com/in/piyushchauhan30/)
