@@ -1,14 +1,21 @@
 # Personal Portfolio
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![© 2025 Piyush Chauhan](https://img.shields.io/badge/©%202025-Piyush%20Chauhan-blue)
+
 A modern portfolio website built with Next.js and TailwindCSS.
+
+---
 
 ## Features
 
 - Responsive design
 - Smooth animations
-- Contact form
+- Contact Page & Form
 - Project showcase
 - SEO optimized
+
+---
 
 ## Project Structure
 
@@ -23,6 +30,8 @@ portfolio/
 │── next.config.js      # Next.js config
 │── package.json        # Dependencies
 ```
+
+---
 
 ## Getting Started
 
@@ -51,24 +60,30 @@ yarn dev
 
 4. **Open your browser**
 
-Open [http://localhost:3000](http://localhost:3000) to view the website.
+Visit [http://localhost:3000](http://localhost:3000) to view the website.
+
+---
 
 ## Customization
 
 1. Replace the profile image in `/public/images/profile.jpg`
 2. Update personal information in components and pages
-3. Add your own projects to the projects page
+3. Add your own projects to the Projects page
 4. Customize the color scheme in `tailwind.config.js`
+
+---
 
 ## Deployment
 
-This project can be easily deployed to services like Vercel, Netlify, or GitHub Pages.
+This project can be deployed to services like **Vercel**, **Netlify**, or **GitHub Pages**.
 
 ```bash
 npm run build
 # or
 yarn build
 ```
+
+---
 
 ## Technologies Used
 
@@ -78,6 +93,8 @@ yarn build
 - TailwindCSS
 - ESLint
 
+---
+
 ## Pages
 
 - **Home**: Introduction and featured projects
@@ -85,16 +102,30 @@ yarn build
 - **Projects**: Portfolio of work with filtering capabilities
 - **Contact**: Contact form and alternative contact methods
 
+---
+
 ## Tech Stack
 
 - **Frontend Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [TailwindCSS](https://tailwindcss.com/)
 - **Typography**: Google Fonts (Inter, Poppins)
-- **Deployment**: Vercel (recommended)
+- **Deployment**: [Vercel](https://vercel.com/) (recommended)
+
+---
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](./LICENSE).  
+© 2025 Piyush Chauhan. All rights reserved.
+
+---
+
+## DMCA Notice
+
+Unauthorized copying, reproduction, or redistribution of any part of this website design or code is strictly prohibited without express written permission.  
+If you find someone infringing on this work, or need permissions, please contact: **piyushchauhan936001@gmail.com**
+
+---
 
 ## Acknowledgments
 
@@ -109,6 +140,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: contact@youremail.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- 📧 Email: [piyushchauhan936001@gmail.com](mailto:piyushchauhan936001@gmail.com)
+- 🐦 Instagram: [@piyush___chauhan_](https://instagram.com/piyush___chauhan_)
+- 💼 LinkedIn: [Piyush Chauhan](https://linkedin.com/in/piyushchauhan30/)
